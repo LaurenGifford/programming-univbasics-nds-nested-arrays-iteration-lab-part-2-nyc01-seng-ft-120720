@@ -10,6 +10,7 @@ row_index = 0
       end
       element_index += 1
     end
+    min_array << minimum_element
     row_index += 1
   end
   min_array << minimum_element
