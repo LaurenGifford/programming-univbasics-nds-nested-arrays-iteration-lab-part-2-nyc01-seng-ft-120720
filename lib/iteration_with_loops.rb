@@ -13,5 +13,5 @@ row_index = 0
     min_array << minimum_element
     row_index += 1
   end
-  minimum_element
+  min_array
 end
